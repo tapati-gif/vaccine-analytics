@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.vscode/
+.streamlit/secrets.toml
+*.sqlite3
+/.idea/
+venv/
+env/
+pip-wheel-metadata/
+build/
+dist/
+*.egg-info/

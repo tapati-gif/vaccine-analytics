@@ -1,41 +1,63 @@
-# Vaccine Analytics Mini Project
+# Hi 👋 I'm Tapati Roy
 
-This repository contains a Streamlit app that demonstrates simple vaccine analytics and visualizations.
+🎓 B.Tech in Biotechnology with AI  
+🏫 Techno India University, Kolkata  
+📊 Aspiring Data Analyst (Computer / IT Domain)  
+💡 Passionate about Data, AI & Technology  
 
-Files added
+---
 
-- [vaccine_analytics_website.py](vaccine_analytics_website.py) — main Streamlit app
-- [requirements.txt](requirements.txt) — Python dependencies
-- [Procfile](Procfile) — optional deployment entry for PaaS
-- [.streamlit/config.toml](.streamlit/config.toml) — Streamlit runtime config
+## 🚀 About Me
 
-## Quick start (local)
+I am a 2nd-year B.Tech student specializing in Biotechnology with Artificial Intelligence at Techno India University, Kolkata.
 
-1. Create a virtual environment and activate it.
+With 2 years of learning experience in programming and data analytics, I am building strong foundations in Python, R, and data analysis tools. I am deeply interested in applying data-driven approaches in technology and real-world problem solving.
 
-```bash
-python -m venv .venv
-# Windows (PowerShell)
-.\.venv\Scripts\Activate.ps1
-# Windows (cmd)
-.\.venv\Scripts\activate.bat
-# macOS / Linux
-source .venv/bin/activate
-```
+I am continuously learning and improving my skills in Data Analytics, Cloud Computing, and Programming.
 
-2. Install dependencies and run the app:
+---
 
-```bash
-pip install -r requirements.txt
-streamlit run vaccine_analytics_website.py
-```
+## 💻 Technical Skills
 
-## Deploy
+### 👨‍💻 Programming Languages
+- Python
+- Java
+- R
 
-- Streamlit Community Cloud: create a new app and point it at the repository and the `vaccine_analytics_website.py` file.
-- Render/Heroku: use the `Procfile`. Ensure `requirements.txt` is present.
+### 📊 Data Analysis & Libraries
+- Pandas
+- NumPy
+- Matplotlib
+- Excel
 
-## Next steps
+### 🛠 Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
 
-- Add interactivity (filters, sliders) to the Streamlit app.
-- Add tests or CI for automated checks.
+---
+
+## 📜 Certifications
+
+- AWS (Amazon Web Services) Course
+- Python Programming Course
+
+---
+
+## 🎯 Career Objective
+
+To grow as a Data Analyst in the Computer/IT domain by leveraging analytical thinking, programming skills, and data-driven decision-making.
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: tapatiroy2718@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/tapati-roy-6617a5343/  
+📍 Location: Kolkata, India  
+
+---
+
+⭐ Always learning | Always growing | Building with data
+
